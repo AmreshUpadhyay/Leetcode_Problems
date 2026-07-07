@@ -62,3 +62,15 @@ This repository serves as:
 If you find this repository helpful, feel free to star it and follow my coding journey.
 
 Happy Coding! 💻
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
