@@ -1,16 +1,22 @@
 class Solution {
     public boolean detectCapitalUse(String word) {
-        if(word.equals(word.toUpperCase())){
+        int n = word.length();
+        int count = 0;
+        for(int i=0;i<n;i++){
+            char ch = word.charAt(i);
+            if(ch>='A' && ch<='Z'){
+                count++;
+            }
+        }
+        if(count == n){
             return true;
         }
-        else if(word.equals(word.toLowerCase())){
+        if(count == 0){
             return true;
         }
-        else if(Character.isUpperCase(word.charAt(0)) && word.substring(1).equals((word.substring(1).toLowerCase()))){
+        if(count == 1 && (word.charAt(0)>='A' && word.charAt(0)<='Z')){
             return true;
-        } 
-        else {
-            return false;
         }
+        return false;
     }
 }
