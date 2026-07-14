@@ -89,4 +89,8 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/1025-divisor-game) |
+## String
+|  |
+| ------- |
+| [0520-detect-capital](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0520-detect-capital) |
 <!---LeetCode Topics End-->
