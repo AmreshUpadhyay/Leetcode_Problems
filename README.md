@@ -79,11 +79,13 @@ Happy Coding! 💻
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [1025-divisor-game](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/1025-divisor-game) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0070-climbing-stairs) |
 | [1025-divisor-game](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
@@ -106,4 +108,8 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0075-sort-colors) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
