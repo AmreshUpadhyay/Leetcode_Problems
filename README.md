@@ -69,6 +69,7 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0189-rotate-array) |
@@ -108,6 +109,7 @@ Happy Coding! 💻
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0283-move-zeroes) |
@@ -162,4 +164,8 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [0136-single-number](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0136-single-number) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
