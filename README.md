@@ -82,6 +82,7 @@ Happy Coding! 💻
 | ------- |
 | [0070-climbing-stairs](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0189-rotate-array) |
+| [0441-arranging-coins](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0441-arranging-coins) |
 | [1025-divisor-game](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/1025-divisor-game) |
 ## Dynamic Programming
 |  |
@@ -114,4 +115,8 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0070-climbing-stairs) |
+## Binary Search
+|  |
+| ------- |
+| [0441-arranging-coins](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0441-arranging-coins) |
 <!---LeetCode Topics End-->
