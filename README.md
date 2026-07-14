@@ -69,6 +69,7 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0001-two-sum) |
+| [0189-rotate-array](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
@@ -77,6 +78,7 @@ Happy Coding! 💻
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [1025-divisor-game](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/1025-divisor-game) |
 ## Dynamic Programming
 |  |
@@ -94,4 +96,8 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [0520-detect-capital](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0520-detect-capital) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
