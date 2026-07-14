@@ -84,6 +84,7 @@ Happy Coding! 💻
 | [0070-climbing-stairs](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0441-arranging-coins](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0441-arranging-coins) |
+| [0754-reach-a-number](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0754-reach-a-number) |
 | [1025-divisor-game](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/1025-divisor-game) |
 ## Dynamic Programming
 |  |
@@ -119,9 +120,9 @@ Happy Coding! 💻
 ## Binary Search
 |  |
 | ------- |
-| [0278-first-bad-version](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0441-arranging-coins) |
+| [0754-reach-a-number](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0754-reach-a-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -129,6 +130,5 @@ Happy Coding! 💻
 ## Interactive
 |  |
 | ------- |
-| [0278-first-bad-version](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
