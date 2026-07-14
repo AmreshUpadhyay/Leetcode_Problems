@@ -73,4 +73,20 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/1025-divisor-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/1025-divisor-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
