@@ -73,6 +73,7 @@ Happy Coding! 💻
 | [0189-rotate-array](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0485-max-consecutive-ones) |
+| [0912-sort-an-array](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0912-sort-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/1732-find-the-highest-altitude) |
 ## Hash Table
 |  |
@@ -113,6 +114,7 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0075-sort-colors) |
+| [0912-sort-an-array](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0912-sort-an-array) |
 ## Memoization
 |  |
 | ------- |
@@ -131,4 +133,28 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0374-guess-number-higher-or-lower) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
