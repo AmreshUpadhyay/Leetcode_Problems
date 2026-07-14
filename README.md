@@ -69,6 +69,7 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
@@ -99,5 +100,10 @@ Happy Coding! 💻
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0189-rotate-array) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
