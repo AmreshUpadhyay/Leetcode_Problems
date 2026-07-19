@@ -3,17 +3,13 @@ class Solution {
         return solution(nums);
     }
     static int solution(int[]arr){
-        int max = Integer.MIN_VALUE;
+        int maxsum = Integer.MIN_VALUE;
         int sum = 0 ; 
         for(int i = 0 ; i < arr.length ; i++){
             sum += arr[i];
-            if(sum>max){
-                max = sum;
-            }
-            if(sum<0){
-                sum = 0;
-            }
+            maxsum = sum>maxsum?sum:maxsum;
+            sum = sum<0?0:sum;
         }
-        return max;
+        return maxsum;
     }
 }
