@@ -69,6 +69,7 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0136-single-number) |
@@ -93,6 +94,7 @@ Happy Coding! 💻
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0070-climbing-stairs) |
 | [1025-divisor-game](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/1025-divisor-game) |
 ## Brainteaser
@@ -143,6 +145,7 @@ Happy Coding! 💻
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0053-maximum-subarray) |
 | [0912-sort-an-array](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
