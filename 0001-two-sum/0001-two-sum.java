@@ -1,22 +1,15 @@
 class Solution {
     public int[] twoSum(int[] nums, int target) {
-          Map<Integer, Integer> map = new HashMap<>();
-        int r = nums.length-1;
-        int l = 0;
-
-        while( l<=r ){
-            if (!map.containsKey(target - nums[l])){
-                map.put(nums[l], l);
-                l++;
-            }else{
-                return new int[] {l, map.get(target-nums[l])};
+        return solution(nums,target);
+    }
+    static int[] solution(int[]arr , int target){
+        HashMap<Integer,Integer> map = new HashMap<>();
+        for(int i =0; i < arr.length ; i++){
+            if(!map.containsKey(target-arr[i])){
+                map.put(arr[i],i);
             }
-
-            if(!map.containsKey(target - nums[r])){
-                map.put(nums[r], r);
-                r--;
-            }else{
-                return new int[]{r, map.get(target-nums[r])};
+            else{
+                return new int[]{i , map.get(target-arr[i])};
             }
         }
         return null;
