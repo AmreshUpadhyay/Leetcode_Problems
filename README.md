@@ -80,6 +80,7 @@ Happy Coding! 💻
 | [0912-sort-an-array](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1732-find-the-highest-altitude](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/1732-find-the-highest-altitude) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -119,6 +120,7 @@ Happy Coding! 💻
 | [0189-rotate-array](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0977-squares-of-a-sorted-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
@@ -173,4 +175,8 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [0136-single-number](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0136-single-number) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
