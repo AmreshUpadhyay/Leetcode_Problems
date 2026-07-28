@@ -77,6 +77,7 @@ Happy Coding! 💻
 | [0189-rotate-array](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0485-max-consecutive-ones) |
+| [0905-sort-array-by-parity](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1732-find-the-highest-altitude](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/1732-find-the-highest-altitude) |
@@ -119,6 +120,7 @@ Happy Coding! 💻
 | [0088-merge-sorted-array](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0283-move-zeroes) |
+| [0905-sort-array-by-parity](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
@@ -126,6 +128,7 @@ Happy Coding! 💻
 | ------- |
 | [0075-sort-colors](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0088-merge-sorted-array) |
+| [0905-sort-array-by-parity](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Memoization
