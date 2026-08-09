@@ -82,6 +82,7 @@ Happy Coding! 💻
 | [0912-sort-an-array](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1732-find-the-highest-altitude](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/1732-find-the-highest-altitude) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -149,6 +150,7 @@ Happy Coding! 💻
 ## Prefix Sum
 |  |
 | ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1732-find-the-highest-altitude](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/1732-find-the-highest-altitude) |
 ## Interactive
 |  |
@@ -187,4 +189,8 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/2149-rearrange-array-elements-by-sign) |
+## Sliding Window
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
