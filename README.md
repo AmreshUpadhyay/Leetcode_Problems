@@ -74,6 +74,7 @@ Happy Coding! 💻
 | [0075-sort-colors](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0283-move-zeroes) |
@@ -89,6 +90,7 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0128-longest-consecutive-sequence) |
 ## Math
 |  |
 | ------- |
@@ -193,4 +195,8 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
