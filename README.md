@@ -79,6 +79,7 @@ Happy Coding! 💻
 | [0189-rotate-array](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0905-sort-array-by-parity](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0922-sort-array-by-parity-ii) |
@@ -91,6 +92,7 @@ Happy Coding! 💻
 | ------- |
 | [0001-two-sum](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0560-subarray-sum-equals-k](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0560-subarray-sum-equals-k) |
 ## Math
 |  |
 | ------- |
@@ -153,6 +155,7 @@ Happy Coding! 💻
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1732-find-the-highest-altitude](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/1732-find-the-highest-altitude) |
 ## Interactive
