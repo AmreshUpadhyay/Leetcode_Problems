@@ -99,6 +99,7 @@ Happy Coding! 💻
 | [0441-arranging-coins](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0441-arranging-coins) |
 | [0754-reach-a-number](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0754-reach-a-number) |
 | [1025-divisor-game](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/1025-divisor-game) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Dynamic Programming
 |  |
 | ------- |
