@@ -87,12 +87,14 @@ Happy Coding! 💻
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1732-find-the-highest-altitude](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/1732-find-the-highest-altitude) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0560-subarray-sum-equals-k](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/0560-subarray-sum-equals-k) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/AmreshUpadhyay/Leetcode_Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
 |  |
 | ------- |
